@@ -1,6 +1,3 @@
-# DevOps Git Demo Project
-
-
 # DevOps Project with Git Workflow
 
 ## 📌 Overview
